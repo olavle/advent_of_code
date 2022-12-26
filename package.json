@@ -1,0 +1,35 @@
+{
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4"
+  },
+  "name": "advent_of_code",
+  "description": "Updating the advent of code events here when I feel like doing it",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "acorn": "^8.8.1",
+    "acorn-walk": "^8.2.0",
+    "diff": "^4.0.2",
+    "arg": "^4.1.3",
+    "make-error": "^1.3.6",
+    "create-require": "^1.1.1",
+    "v8-compile-cache-lib": "^3.0.1",
+    "yn": "^3.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts-node": "ts-node",
+    "first": "ts-node ./first/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olavle/advent_of_code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olavle/advent_of_code/issues"
+  },
+  "homepage": "https://github.com/olavle/advent_of_code#readme"
+}
