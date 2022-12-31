@@ -20,7 +20,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "ts-node": "ts-node",
-    "first": "ts-node ./first/index.ts"
+    "first": "ts-node ./first/index.ts",
+    "second": "ts-node ./second/index.ts"
   },
   "repository": {
     "type": "git",
